@@ -87,11 +87,12 @@ list(APPEND nuttx_libs
 	nuttx_apps
 	nuttx_arch
 	nuttx_binfmt
-	nuttx_c
 	nuttx_boards
 	nuttx_xx
 	nuttx_drivers
+	nuttx_c
 	nuttx_fs
+	nuttx_c
 	nuttx_mm
 	nuttx_sched
 )
